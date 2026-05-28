@@ -43,7 +43,19 @@ Pending → Accepted → Out for Delivery → Delivered
 
 ## 🔐 Delivery Login Credentials
 
-Email: delivery@test.com
-Password: 123456
+- **Email:** delivery@test.com
+- **Password:** 123456
 
 ---
+
+## How to Run
+
+### Backend
+cd backend  
+npm install  
+npm run dev  
+
+### Frontend
+cd frontend  
+npm install  
+npx expo start  
